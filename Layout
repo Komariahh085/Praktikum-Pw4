@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<style>
+
+    header {
+
+        background-color: black;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+    }
+
+    nav {
+
+        background-color: yellow;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+    }
+
+    article {
+
+        background-color: aqua;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        float: left ;
+
+        width: 70%;
+
+    }
+
+    aside {
+
+        background-color: orange;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        float: right;
+
+        width: 29%;
+
+        height: 630px;
+
+    }
+
+    section {
+
+        background-color: purple;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 30px 30px 10px;
+
+    }
+
+    footer {
+
+        background-color: blue;
+
+        padding: 15px 0 15px 0;
+
+        border: 2px solid black;
+
+        margin: 10px 0  10px 0;
+
+        clear: both;
+
+    }
+
+</style>
+
+<body>
+
+    <header>
+
+        <img align="left" width="80" src="logowebsite.jpg" alt="">
+
+        <h1 align="center">Website AR</h1>
+
+    </header>
+
+    <nav>
+
+        <table style="width: 100%;">
+
+            <tbody>
+
+                <tr>
+
+                    <td><a href="">Beranda</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Untuk anda</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Mengikuti</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Indonesia</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Dunia</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Lokal</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Bisnis</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Teknologi</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Hiburan</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Olahraga</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Sains</a> &NonBreakingSpace;|</td>
+
+                    <td><a href="">Kesehatan</a></td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </nav>
+
+    <article>
+
+        <h3>Artikel</h3>
+
+        <section>
+
+            <h4>5.000 Warga Gaza Tewas</h4>
+
+            <p>Kementrian kesehatan gaza mengatakan lebih dari 5.000 orang telah terbunuh di daerah itu sejak israel melancarkan serangan udara sebagai tanggapan atas serangan hamas 2 minggu lalu.Angka bertambah seiring 300 serangan dalam 24 jam yang di lancarkan israel. [...]
+
+                <input type="button" value="Read more">
+
+            </p>
+
+        </section>
+
+
+
+        <section>
+
+            <h4>Hamas Bebaskan Sandera</h4>
+
+            <p>Di sisi lain,Hamas mengatakan pihaknya telah membebaskan dua sandera yang di identifikasi sebagai Nurit Cooper dan Yochved Lifshitz.Kelompok itu mengatakan "Kemanusiaan yang mendesak" menjadi alasannya. [...]
+
+                <input type="button" value="Read more">
+
+            </p>
+
+        </section>
+
+
+
+        <section>
+
+            <h4>Israel Tangkap Warga Palestina di Tepi Barat dan Hebron</h4>
+
+            <p>Israel di laporkan menangkap banyak warga palestina,senin.Kabar ini di sampaikan oleh pihak berwenang dan media,senin. Setidaknya 120 warga palestina,termasuk 40 pekerja dari gaza dan 59 di hebron.Lebih dari 1.200 warga palestina telah ditangkap oleh pasukan israel di tepi barat yang di duduki sejak 7 oktober. [...]
+
+                <input type="button" value="Read more"> 
+
+            </p>
+
+        </section>
+
+    </article>
+
+    <aside>
+
+        <h3>Konten Multimedia</h3>
+
+        <img width="200" src="asset/multimedia 1.jpeg" alt="">
+
+        <br>
+
+        <br>
+
+        <img width="200" src="asset/multimedia 2.jpeg" alt="">
+
+        <br>
+
+        <br>
+
+        <img width="200" src="asset/multimedia 3.jpeg" alt="">
+
+    </aside>
+
+    <footer>
+
+        <p> Mari bersama bantu rakyat Palestina yang sedang menghadapi masa-masa sulit ini dengan doa dan bantuan melalui:
+
+        <ol>
+
+            <li>Klik tombol “DONASI SEKARANG”;</li>
+
+            
+
+            <li>Masukkan nominal donasi;</li>
+
+            
+
+            <li>Pilih metode pembayaran GoPay atau transfer Bank (transfer bank BNI, BCA, BRI, BSI, atau kartu kredit) dan transfer ke no. rekening yang tertera;</li>
+
+            
+
+            <li>Dapatkan laporan melalui email.</li>
+
+        </ol>
+
+           Silahkan Share dan bagikan halaman galang dana ini agar semakin banyak yang membantu.</p>
+
+        <a href="https://kitabisa.com/campaign/sppalestina?utm_source=socialsharing_donor_web_null&utm_medium=share_campaign_copas&utm_campaign=share_detail_campaign">DONASI SEKARANG</a>
+
+    </footer>
+
+</body>
+
+</html>
